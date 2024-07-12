@@ -1,0 +1,97 @@
+body{
+    margin: none;
+    background-color: black;
+}
+.ABC{
+    width: 300px;
+    height: 270px;
+    margin-top: 200px;
+    margin-left: 200px;
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: "Work Sans", sans-serif;
+    font-size: 70px;
+}
+.main{
+    display: flex;
+}
+.main .form{
+    margin-left: 340px;
+    margin-top: 60px;
+}
+h2{
+    color: white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+}
+.btn1{
+    width: 300px;
+    height: 40px;
+    border-radius: 25px;
+    font-size: 15px;
+}
+.btn2{
+    width: 300px;
+    height: 40px;
+    border-radius: 25px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+ .googlelogo{
+    width: 15PX;
+} 
+.hr{
+    display: flex;
+    width: 300px;
+}
+.hr hr{
+    width: 130px;
+    height: 0px;
+    margin-top: 25px;
+    opacity: 20%;
+}
+p{
+    color: aliceblue;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.fa-apple{
+font-size: 20px;
+}
+.h2{
+    font-weight: 500;
+    font-family: sans-serif;
+    display: inline;
+    color: black;
+    font-size: 14px;
+}
+.btn3{
+    width: 300px;
+    height: 40px;
+    border-radius: 25px;
+    font-size: 15px;
+    background-color: rgb(29,155,240);
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+#terms{
+    opacity: 60%;
+    font-size: 11px;
+    line-height: 12px;
+}
+a{
+    color: rgb(38, 143, 224);
+}
+.btn4{
+    width: 300px;
+    height: 40px;
+    border-radius: 25px;
+    font-size: 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(29,155,240);
+    font-family: sans-serif;
+    font-weight: 400;
+    border: 0.5px solid rgb(103, 101, 101);
+}
